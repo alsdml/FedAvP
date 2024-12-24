@@ -4,6 +4,7 @@ This repository contains the official PyTorch implementation for the paper:
 
 - **Minui Hong, Junhyeog Yun, Insu Jeon, and Gunhee Kim**. "**FedAvP: Augmenting Local Data via Shared Policy in Federated Learning**." *NeurIPS 2024*.
   [[paper]](https://openreview.net/forum?id=M1PRU0x1Iz&noteId=hw1nULjwwl)  
+> **Note:** This repository will be further updated.
 
 ## Requirements
 
