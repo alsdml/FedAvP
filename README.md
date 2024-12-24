@@ -31,4 +31,4 @@ This code is adapted from the following implementations:
 
 *   [https://github.com/AIoT-MLSys-Lab/DeepAA](https://github.com/AIoT-MLSys-Lab/DeepAA)
 *   [https://github.com/ildoonet/pytorch-randaugment/blob/master/RandAugment/augmentations.py](https://github.com/ildoonet/pytorch-randaugment/blob/master/RandAugment/augmentations.py)
-
+*   [https://github.com/insujeon/MetaVD](https://github.com/insujeon/MetaVD)
