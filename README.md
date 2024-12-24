@@ -6,6 +6,9 @@ This repository contains the official PyTorch implementation for the paper:
   [[paper]](https://openreview.net/forum?id=M1PRU0x1Iz&noteId=hw1nULjwwl)  
 > **Note:** This repository will be further updated soon.
 
+| <img src="./imgs/fedavp_fig1_1_1.png" alt="Figure 1" width="400"/> &nbsp;&nbsp;&nbsp; | <img src="./imgs/fedavp_fig1_2_1.png" alt="Figure 2" width="400"/> |
+| --- | --- |
+
 ## Requirements
 
 - Python 3.7.12  
